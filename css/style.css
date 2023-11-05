@@ -3917,6 +3917,10 @@
 .main-article-content-page-4 .article__image:not(:last-child) {
   margin-bottom: 14px;
 }
+.wow {
+  visibility: hidden;
+}
+
 *,
 *::before,
 *::after {
